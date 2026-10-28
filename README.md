@@ -1,5 +1,9 @@
 # Intent-Driven Engineering Skills Library
 
+<p align="center">
+  <img src="docs/assets/cover.png" alt="The Intent-Driven Engineering Skills Library cover" width="420">
+</p>
+
 Reusable Agent Skills for building software from intent, evidence, and governed iteration.
 
 > **Core idea:** State the minimum sufficient intent, build, observe evidence, and add only the next justified delta.
